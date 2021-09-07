@@ -1,4 +1,4 @@
-// Inspired by James K. Lawless
+// Inspired by James K. Lawless remade by Yamm Elnekave
 /*
 // cmdmp3
 // A command-line MP3 player for Windows
