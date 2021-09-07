@@ -77,7 +77,7 @@ int main(int argc,char **argv) {
    printf("MP3 player running\n");
    
    if(argc<2) {
-      fprintf(stderr,"Syntax:\n\tcmdmp3 \"c:\\path to file\\file.mp3\"\n");
+      fprintf(stderr,"Syntax:\n\tmp3player \"c:\\path to file\\file.mp3\"\n");
       return 1;
    }
    // Get the shortened path because the MCI string interpreter uses spaces
