@@ -3,7 +3,7 @@
 TO COMPILE: gcc mp3player.c -lwinmm -o mp3player.exe
 You can drag the compiled mp3player.exe file to the folder you wish to use it in.
 
-Example use in:
+[Example project](https://github.com/mrElnekave/speakHexPlease)
 
 Syntax:
 mp3player c:\\path to file\\file.mp3
